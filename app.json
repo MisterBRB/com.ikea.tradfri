@@ -114,7 +114,8 @@
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": [
-          "TRADFRI bulb E27 WS�opal 980lm",
+          "TRADFRI bulb E27 WS�opal 1000lm",
+	  "TRADFRI bulb E27 WS�opal 980lm",
           "TRADFRI bulb E27 WS�opal 980lm",
           "TRADFRI bulb E27 WS opal 980lm",
           "TRADFRI bulb E12 WS opal 400lm",
@@ -124,7 +125,10 @@
           "TRADFRI bulb E26 WS�opal 980lm",
           "TRADFRI bulb E27 WS clear 950lm"
         ],
-        "deviceId": 544,
+        "deviceId": [
+	   544,
+	   268
+	],
         "profileId": [
           260,
           49246
